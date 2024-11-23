@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: NTkpp
+Version: 0.0.2.4
+Summary: Простая библиотека для полносвязных нейронных сетей
+Author: Тихонов Иван
+Author-email: tihonovivan737@gmail.com
+Requires-Python: >=3.6
+Requires-Dist: numpy
